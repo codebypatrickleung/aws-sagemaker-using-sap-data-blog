@@ -1,5 +1,7 @@
 # Implementing a continual learning machine learning pipeline with Amazon Sagemaker and SAP S/4HANA
 
+> This is a copy of work originally done at AWS. I am creating this version since my previous work was not associated with my personal GitHub account.
+
 This Github repository is created to provide the sample source for the AWS blog post - Implementing a continual learning machine learning pipeline with Amazon Sagemaker and SAP S/4HANA.
 
 ## Table of Contents
